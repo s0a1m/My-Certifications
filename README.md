@@ -13,6 +13,6 @@ List of Certificates:
 
 Internship Certificates:
 1. Academor
-2. Devskillhub
+2. DevSkillHub
 3. Hacker Bro Technologies
 4. IntrnForte
